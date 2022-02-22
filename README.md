@@ -7,13 +7,6 @@ Diego-Musashi/Diego-Musashi is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
-  <a href="https://github.com/Diego-Musashi">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=diego-musashi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-musashi&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-![Snake animation](https://github.com/DevNandes/Devnandes/blob/output/github-contribution-grid-snake.svg)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,3 +28,11 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.linkedin.com/in/diego-musashi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+  <div align="center">
+  <a href="https://github.com/Diego-Musashi">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=diego-musashi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-musashi&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+![Snake animation](https://github.com/DevNandes/Diego-Musashi/blob/output/github-contribution-grid-snake.svg)
