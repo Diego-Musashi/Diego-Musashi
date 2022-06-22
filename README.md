@@ -1,5 +1,5 @@
 - 👋 Olá! Sou Diego-Musashi
-- 🌱 Atualmente estou estudando JavaScript
+- 🌱 Atualmente realizando o curso Explorer na Rocketseat 
 - 📫 Meu contato de e-mail diegokitagawa@gmail.com
 
 <!---
