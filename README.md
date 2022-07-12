@@ -1,5 +1,5 @@
 - 👋 Olá! Sou Diego-Musashi
-- 🌱 Atualmente realizando o curso Explorer na Rocketseat 
+- 🌱 Atualmente cursando programação na Rocketseat, na jornada EXPLORER. 
 - 📫 Meu contato de e-mail diegokitagawa@gmail.com
 
 <!---
