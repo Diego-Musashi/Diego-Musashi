@@ -1,6 +1,7 @@
 - 👋 Olá! Sou Diego-Musashi
 - 🌱 Atualmente cursando programação na Rocketseat, na jornada EXPLORER. 
 - 📫 Meu contato de e-mail diegokitagawa@gmail.com
+- 📌 Abaixo tem as redes sociais que utilizo e que podem me encontar
 
 <!---
 Diego-Musashi/Diego-Musashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
