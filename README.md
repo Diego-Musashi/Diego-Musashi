@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Diego Musashi
+### 👋 Hi there, I'm Diego Musashi!
 
 #### About
 - 🌱 I'm studying web and mobile development at [Rocketseat] (https://www.rocketseat.com.br/), in the curse EXPLORER. 
