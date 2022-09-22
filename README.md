@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Diego Musashi!
 
 #### About
-- 🌱 I'm studying web and mobile development at [Rocketseat] (https://www.rocketseat.com.br/), in the curse EXPLORER. 
+- 🌱 I'm studying web and mobile development at [Rocketseat](https://www.rocketseat.com.br/), in the curse EXPLORER. 
 
 #### Current Stack
 - Main language: `JavaScript`
