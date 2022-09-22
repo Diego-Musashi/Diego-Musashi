@@ -1,7 +1,19 @@
-- 👋 Olá! Sou Diego-Musashi
-- 🌱 Atualmente cursando programação na Rocketseat, na jornada EXPLORER. 
-- 📫 Meu contato de e-mail diegokitagawa@gmail.com
-- 📌 Abaixo tem as redes sociais que utilizo e que podem me encontar
+### 👋 Hi there! I'm Diego Musashi
+
+#### About
+- 🌱 I'm studying web and mobile development at [Rocketseat] (https://www.rocketseat.com.br/), in the curse EXPLORER. 
+
+#### Current Stack
+- Main language: `JavaScript`
+- Backend: `NodeJs`
+- Frontend: `ReatJs`, `HTML5`, `CSS3`, `JavaScript`
+- Layout Design: `Figma`
+- Version Code Control: `Git & GitHub`
+- Tools: `VsCode`, `Markdown`
+
+#### Contacts
+- 📫 e-mail diegokitagawa@gmail.com
+- 📌 Below are the social networks that I use and that you can find me
 
 <!---
 Diego-Musashi/Diego-Musashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +31,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="diego-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="diego-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="diego-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
