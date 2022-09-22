@@ -4,12 +4,12 @@
 - 🌱 I'm studying web and mobile development at [Rocketseat](https://www.rocketseat.com.br/), in the curse EXPLORER. 
 
 #### Current Stack
-- Main language: `JavaScript`
-- Backend: `NodeJs`
-- Frontend: `ReatJs`, `HTML5`, `CSS3`, `JavaScript`
-- Layout Design: `Figma`
-- Version Code Control: `Git & GitHub`
-- Tools: `VsCode`, `Markdown`
+- ⚡️ Main language: `JavaScript`
+- 📡 Backend: `NodeJs`
+- 💻 Frontend: `ReatJs`, `HTML5`, `CSS3`, `JavaScript`
+- 🎨 Layout Design: `Figma`
+- 🪄 Version Code Control: `Git & GitHub`
+- 🛠 Tools: `VsCode`, `Markdown`
 
 #### Contacts
 - 📫 e-mail diegokitagawa@gmail.com
